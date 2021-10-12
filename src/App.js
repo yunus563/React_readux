@@ -16,7 +16,7 @@ function App() {
       {error && (<div className="error-message">{error}</div>)}
         <div className="card">
           <div className="card-image">
-            <img src="./sea.jpg" alt="surfing"/>
+            <img src="./Microsoft.VisualStudio.Services.Icons.jpg" alt="surfing"/>
             <Title/>
             <Likes/>
           </div>
